@@ -1,6 +1,6 @@
 import { Container, Typography } from "@mui/material";
 import { useAppSelector } from "../../store/store";
-import { selectPosts } from "../../store/selectors/dogsSelector";
+import { selectPosts } from "../../store/selectors/postSelector";
 import { Post } from "../../components/Post";
 
 export const Favorite = () => {

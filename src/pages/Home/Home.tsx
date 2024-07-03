@@ -4,7 +4,7 @@ import { useGetPostsQuery } from "../../store/dogAPI";
 import { TData } from "../../utils/transformData";
 import { useAppDispatch, useAppSelector } from "../../store/store";
 import { addData } from "../../store/slices/postSlice";
-import { selectPosts } from "../../store/selectors/dogsSelector";
+import { selectPosts } from "../../store/selectors/postSelector";
 import { Post } from "../../components/Post";
 
 export const Home = () => {
