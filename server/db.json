@@ -1,0 +1,64 @@
+{
+  "doggos": [
+    {
+      "id": "1",
+      "url": "https://random.dog/00186969-c51d-462b-948b-30a7e1735908.jpg"
+    },
+    {
+      "id": "2",
+      "url": "https://random.dog/00564ba3-e5cb-4b2b-8d97-c65a9ef26c23.png"
+    },
+    {
+      "id": "3",
+      "url": "https://random.dog/00b417af-0b5f-42d7-9ad0-6aab6c3db491.jpg"
+    },
+    {
+      "id": "4",
+      "url": "https://random.dog/0886de63-9a5d-41c5-b750-4e7633f63ce1.jpg"
+    },
+    {
+      "id": "5",
+      "url": "https://random.dog/0c79c11b-c154-43da-8faa-a01e9cfd0ae7.gif"
+    },
+    {
+      "id": "6",
+      "url": "https://random.dog/054dce82-51c9-49d5-bc7c-4d76e8288d33.jpg"
+    },
+    {
+      "id": "7",
+      "url": "https://random.dog/09f8ecf4-c22b-49f4-af24-29fb5c8dbb2d.jpg"
+    },
+    {
+      "id": "8",
+      "url": "https://random.dog/0fd781ff-ec46-4bdc-a4e8-24f18bf07def.jpg"
+    },
+    {
+      "id": "9",
+      "url": "https://random.dog/1032609c-faec-4eb2-9edc-b580fce636f9.jpg"
+    },
+    {
+      "id": "10",
+      "url": "https://random.dog/016d49aa-66f0-41de-872b-009367e97325.gif"
+    },
+    {
+      "id": "11",
+      "url": "https://random.dog/17f8150e-12c6-4ac3-9e45-38e569359016.jpg"
+    },
+    {
+      "id": "12",
+      "url": "https://random.dog/38a037be-5e4f-4c79-bc7d-bcbfc36d0e1e.jpg"
+    },
+    {
+      "id": "13",
+      "url": "https://random.dog/2a3433a7-c3c5-4fe3-b5e7-c521d136d305.gif"
+    },
+    {
+      "id": "14",
+      "url": "https://random.dog/2bc7df24-892a-43aa-a3de-eab849336cf4.jpg"
+    },
+    {
+      "id": "15",
+      "url": "https://random.dog/42e97d6a-c825-4191-9434-32cea191fc21.jpeg"
+    }
+  ]
+}
